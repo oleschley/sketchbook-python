@@ -1,0 +1,12 @@
+# all config files
+**/conf.yaml
+
+# vscode settings
+.vscode
+
+# jupyter notebook artifacts
+**/.ipynb_checkpoints
+
+# other
+Pipfile.lock
+**/__pycache__
